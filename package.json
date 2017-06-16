@@ -1,7 +1,7 @@
 {
   "name": "join-json",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Merges multiple JSON objects or arrays together. Can be used as node module or from command-line.",
   "main": "index.js",
   "bin": {
     "join-json": "bin/join-json.s"
