@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 const fs = require('fs');
 const JoinJSON = require('../index.js');
 const nomnom = require('nomnom');
