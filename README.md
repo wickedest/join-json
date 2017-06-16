@@ -1,5 +1,7 @@
 # join-json
 
+Merges multiple JSON objects or arrays together.  Can be used as node module or from command-line.
+
 ```bash
 npm install join-json
 ```
@@ -18,3 +20,7 @@ console.log(joinjson.join([{c: 3}]));
 ```bash
 join-json -i a.json -i b.json -o out.json -f
 ```
+
+## License
+
+MIT
